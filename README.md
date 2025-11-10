@@ -2,7 +2,7 @@
 
 This repository contains my completed assignments and programming projects for **CSE 231: Introduction to Programming I** at the **University of Michigan**.  
 
-These projects mark the beginning of my programming journey — where I learned to break problems into logic, write clean Python code, and fall (occasionally headfirst) into the world of software development.  
+These projects mark the beginning of my programming journey, where I learned to break problems into logic, write clean Python code, and fall (occasionally headfirst) into the world of software development.  
 
 
 
@@ -28,7 +28,7 @@ Structured assignments from the course, emphasizing algorithmic thinking, loops,
 
 
 ## 💡 What I Learned  
-- How to think like a programmer — not just code like one  
+- How to think like a programmer, not just code like one  
 - Writing readable, modular Python scripts  
 - Debugging, testing, and improving logic efficiency  
 - Turning textbook exercises into real, structured code  
@@ -44,7 +44,7 @@ Structured assignments from the course, emphasizing algorithmic thinking, loops,
 ## 🖋️ Reflection  
 
 This course was where I learned the *art of logic*. Every `for` loop, every off-by-one error, and every working output felt like unlocking a new level.  
-It’s not just where my code started — it’s where my mindset did.  
+It’s not just where my code started, it’s where my mindset did.  
 
 
 
